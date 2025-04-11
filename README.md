@@ -1,4 +1,4 @@
-# DevaCode: Sanskrit-Based Programming Language for Future Technologies
+# Sanskrit-Based Programming Language for Future Technologies
 
 Welcome to the **DevaCode** repository! This is an open-source project aiming to create a Sanskrit-based programming language designed for the future of **Quantum Computing**, **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Natural Language Processing (NLP)**.
 
